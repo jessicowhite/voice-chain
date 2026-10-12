@@ -1,0 +1,9 @@
+﻿.venv/
+rec/
+__pycache__/
+
+settings.json
+presets.json
+
+tools/
+
